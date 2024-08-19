@@ -2,6 +2,7 @@
 
 Sentiment analysis, also known as opinion mining, is a powerful technique that involves analyzing text data to determine the emotional tone behind it. This process leverages natural language processing and machine learning to categorize text as positive, negative, or neutral. For organizations, sentiment analysis offers invaluable insights into customer opinions, product feedback, and brand perception. 
 <br>
+<br>
 By understanding the sentiments expressed by customers on social media, review sites, and surveys, businesses can make data-driven decisions to improve their products and services, tailor marketing strategies, and enhance customer satisfaction. Beyond monitoring brand health, sentiment analysis can be used to identify emerging trends, assess public relations impact, and gain competitive intelligence. For example, organizations can track sentiment shifts over time to evaluate the success of a new campaign or product launch. Ultimately, sentiment analysis enables companies to engage more effectively with their audience, anticipate and address concerns proactively, and foster stronger, more positive relationships with their customers.
 
 ## Twitter Sentiment Analysis
