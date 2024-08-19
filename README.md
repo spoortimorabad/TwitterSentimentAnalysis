@@ -13,4 +13,4 @@ Twitter sentiment analysis involves examining tweets to gauge public opinion on 
 My project focuses on leveraging advanced natural language processing techniques for Twitter sentiment analysis. By applying sentiment analysis to tweets, I aim to understand public opinion on various topics, brands, and events. The project involves cleaning and preprocessing tweet data, training sentiment analysis models using state-of-the-art transformers like BERT, and evaluating model performance to ensure accurate sentiment classification. Additionally, I plan to visualize and interpret the sentiment data to provide actionable insights for brand management and market research. This approach allows you to capture real-time sentiments and trends, enabling organizations to make informed decisions and engage effectively with their audience.
 
 ## Dataset
-The dataset is taken from the kaggle !link(https://www.kaggle.com/datasets/goyaladi/twitter-dataset).
+The dataset is taken from the kaggle [Twitter Dataset](https://www.kaggle.com/datasets/goyaladi/twitter-dataset).
