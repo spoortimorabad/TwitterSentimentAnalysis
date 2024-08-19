@@ -15,3 +15,4 @@ My project focuses on leveraging advanced natural language processing techniques
 
 ## Dataset
 The dataset is taken from the kaggle [Twitter Dataset](https://www.kaggle.com/datasets/goyaladi/twitter-dataset).
+The cleaned dataset is too large to upload directly to GitHub.
